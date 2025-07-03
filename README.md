@@ -17,7 +17,7 @@
 
 Пожалуйста, сначала ознакомьтесь с [правилами внесения предложений](CONTRIBUTING.md). ❤️ Мы ценим вклад каждого участника!
 
-## Список рескрсов по категориям
+## Список ресурсов по категориям
 
 ### Инструменты SLO
 * [Sloth-Next](https://github.com/ALLSLO-COMMUNITY/sloth-next) - форк Sloth.dev развиваемый сообществом ALLSLO. Генератор правил вычисления SLI и правил алертов SLO для AlertManger, UI Grafana. поддержка Prometheus и VectoriaMetrics
@@ -29,6 +29,10 @@
 
 ### Жизненный цикл SLO
 * [SLODLC](https://www.slodlc.com/) - метоодология Service Level Objective Development Lifecycle, разработана Nobl9
+
+### Базовые навыки для работы с SLO
+
+* Цикл статей "Человеческим языком про метрики": [Потерянное введение](https://habr.com/ru/companies/tochka/articles/683608/), [Prometheus](https://habr.com/ru/companies/tochka/articles/685636/), [Перцентили для чайников](https://habr.com/ru/companies/tochka/articles/690814/), [PromQL](https://habr.com/ru/companies/tochka/articles/693834/)
 
 ### Особеснности вычисления SLI/SLO
 * Презентация "[Part 2: Service Level Objective (SLO) Math](https://hpe-developer-portal.s3.amazonaws.com/Part+2_Running+Reliable+systems_SLO+Math.pdf)" (2022) - проблемы вичисления SLI
