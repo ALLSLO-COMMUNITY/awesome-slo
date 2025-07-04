@@ -32,13 +32,13 @@
 
 ### Особеснности вычисления SLI/SLO
 * Презентация "[Part 2: Service Level Objective (SLO) Math](https://hpe-developer-portal.s3.amazonaws.com/Part+2_Running+Reliable+systems_SLO+Math.pdf)" (2022) - проблемы вичисления SLI
-* Видео "[Математика SLO...](https://rutube.ru/video/af628e467852ddb365b11ae3b0ed964d/)" (RndTech Reliability Meetup 2, 2025) — сложности в вичислении SLI
-* Видео "[SLI/SLO/SLA в микросервисном приложении](https://youtu.be/h0aZ_QNMTxU)" (HighLoad, 2024) - особесности SLI для микросервисов
+* Видео "Математика SLO..." (RndTech Reliability Meetup 2, 2025) [RuTube](https://rutube.ru/video/af628e467852ddb365b11ae3b0ed964d/), [YouTube](https://www.youtube.com/watch?v=PhM5-U52fBE) — сложности в вичислении SLI
+* Видео "SLI/SLO/SLA в микросервисном приложении" (HighLoad, 2024) [VkVideo](https://vkvideo.ru/video-152308462_456239797), [YouTube](https://youtu.be/h0aZ_QNMTxU)- особесности SLI для микросервисов
 * Статья "[Rules backfilling via vmalert](https://victoriametrics.com/blog/rules-replay/)" (VictoriaMetrics Blog, 2023) - как пересчитать SLO по историческим метрикам за интервал в прошлом в VictoriaMetrics
 * Статья *[Composite SLO](https://blog.alexewerlof.com/p/composite-slo) (2023) - о расчете сложно-составных SLO
 
 ### Внедрение SLO
-* Видео "[SLOмано все. Короткая история о борьбе с реальностью](https://vk.com/video-179458361_456239083)" (2025) - о проблемах внедрения SLO и их решении на примере компаний Сбермаркет и Купер
+* Видео "SLOмано все. Короткая история о борьбе с реальностью" (2025) [VkVideo](https://vk.com/video-179458361_456239083), [YouTube](https://www.youtube.com/watch?v=1QmTSIhhljs) - о проблемах внедрения SLO и их решении на примере компаний Сбермаркет и Купер
 * Статья "[Как внедрить SLO в продукт и получить от этого пользу](https://habr.com/ru/companies/skbkontur/articles/739774/)" (Habr, 2023)  - о проблемах внедрения SLO и их решении на примере компании [Контур](https://kontur.ru/)
 
 ### Телеграм каналы и группы об SLI/SLO
